@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+body {
+    align-items: center;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Big Caslon';
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+table , tr, td, th {
+    border: solid 2px black;
+}
+
+th {
+    background-color: darkolivegreen;
+    color: floralwhite;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 135px;
+    padding-bottom: 10px;
+    padding-left: 135px;
+}
+
